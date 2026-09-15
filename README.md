@@ -7,7 +7,7 @@ This repository contains the learning analytics data and R code used for the rea
 * `data.train.RData`: training data used in the learning analytics analysis.
 * `data.pred.RData`: test data used for prediction in the learning analytics analysis.
 * `allmodels.R`: R function for enumerating the model space.
-* `junyi-analysis-github.R`: R code for running the online and offline BMA analyses, followed by analysis including posterior prediction, credible intervals, AUC calculation, running time comparison, and top model analysis.
+* `junyi-analysis-github.R`: R code for running the online and offline BMA algorithms, followed by analyses including posterior prediction, credible intervals, AUC calculation, running time comparison, and top model analyses.
 
 ## Running the code
 
