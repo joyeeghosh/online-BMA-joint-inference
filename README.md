@@ -1,6 +1,6 @@
 # Online BMA Joint Inference
 
-This repository contains the learning analytics data and R code used for the real data analysis in the paper on online Bayesian model averaging (BMA) with joint inference on model uncertainty and within model coefficient uncertainty.
+This repository contains the learning analytics data and R code used for the real data analysis in the paper ONLINE BAYESIAN MODEL AVERAGING WITH JOINT UNCERTAINTY QUANTIFICATION FOR MODELS AND REGRESSION COEFFICIENTS IN BINARY REGRESSION by Joyee Ghosh and Aixin Tan.
 
 ## Files
 
